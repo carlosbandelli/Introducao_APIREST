@@ -1,0 +1,5 @@
+Get = Requisição HTTP, quando voce acessa algum link da internet, retornar dados para o computador (exemplo = entrou no google digitou alguma coisa e apertou enter, pronto usou get)
+Post = Requisição HTTP, criação de dados, usado para formularios (cadastro de dados, criação de cadastro)
+Put = Requisição HTTP, serve para autliazar completamente( serve para edição de coisa já criados)
+Patch = Requisição HTTP, serve para atualizar parcialmente os dados (editar coisa parcialmente, voce tem um produto é so quer editar preço e peso, usaria esse metodo)
+Delete = Requisição HTTP, serve para deletar o existe
