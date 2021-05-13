@@ -1,0 +1,10 @@
+O que é rest?
+Padrão de desenvolvimento de webservices (padrão arquitetural) 
+Para criar uma APi (webservices rest) seguir essas regras:
+
+1 - Cliente servidor (não pode ser cliente e servido ao mesmo tempo)
+2 - Stateless (recebe a requisição e não guarda o estado da requisição, ele pega a requisição le responde e joga no lixo)
+3 - Cacheável ()
+4 - Saber trabalhar com camadas (não importa o que colocar entre a resposta e requisição ela tem funcionar do mesmo jeito)
+5 - interface uniforme e direta (ela simplesmente tem que fazer o que tem que fazer se eu usar uns do verbos HTTP, tem buscar o que pedi)
+

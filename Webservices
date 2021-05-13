@@ -1,0 +1,7 @@
+O que é Api?
+è como se fosse um sofware ou uma biblioteca que serve para permitir que alguma coisa se comnunique 
+com  outra coisa, é uma camada de comunicação, uma interface de comunicação
+entre uma ou mais coisas, a api não se limita a web, elas estão em todos os lugares da computação
+Exemplos:
+api graficas = directx, opengl, vulcan
+essa Api grafica ea comunicação no qual o programador pode se comunicar para manipular a placa de vido d o computador

@@ -1,0 +1,9 @@
+O que é RESTFUL?
+Ela utilizada todas regras da rest e implementa todas as especificação da comunidade
+
+Glory of rest
+
+level 3 - HYPERMEDIA CONTROLS (Hateoas = alem de retornar o dados que  voce pediu retorna a lista de açoes possiveis (com links)) 
+level 2 - HTTP VERBS (quando utiliza os verbos HTTP)
+level 1 - RESOURCES (Dividi as coisa em recursos )  
+level 0 - THE SWAMP OF POX (quando voce tem uma api esta focado em um unico end point uma unica rota)
